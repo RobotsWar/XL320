@@ -28,3 +28,7 @@ The parameter `Holes` contains the Ollo hole diameter (default: 4.3mm) and the p
 ### ArmToArm
 
 ![ArmToArm](img/ArmToArm.png)
+
+## ArmToSide
+
+![ArmToSide](img/ArmToSide.png)
