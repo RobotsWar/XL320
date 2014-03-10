@@ -6,5 +6,8 @@ Dynamixel XL-320 parts
 
 ### Pantilt
 
-![img/Pantilt.png]
+!(Pantilt)[img/Pantilt.png]
 
+### U
+
+!(U)[img/u.png]
