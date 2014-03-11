@@ -36,3 +36,7 @@ The parameter `Holes` contains the Ollo hole diameter (default: 4.3mm) and the p
 ## BottomToBottom
 
 ![BottomToBottom](img/BottomToBottom.png)
+
+## SideToSide
+
+![SideToSide](img/SideToSide.png)
