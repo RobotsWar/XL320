@@ -6,6 +6,7 @@ It contains:
 
 * `src/` the Autodesk source files (`.iam` and `.ipt`)
 * `img/` images of the parts (see below)
+* `stl/` STL format parts
 
 You can customize most of the parts using Autodesk and editing its parameters.
 
